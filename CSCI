@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>My test page</title>
+  </head>
+  <p>Dogs!!!</p>
+  <body>
+    <p id="noWhitespace">I love dogs.</p>
+
+<p id="whitespace">I
+    love
+        dogs. My favorite type is a English Cream Dachshund. </p>
+    
+
+        <img src="https://www.alphapaw.com/wp-content/uploads/2021/01/5-1-768x960-1.jpg>
+  
+</body> 
+
+</html> 
